@@ -1,0 +1,9 @@
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\bin\Debug\netcoreapp3.0\DBUtils.deps.json
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\bin\Debug\netcoreapp3.0\DBUtils.dll
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\bin\Debug\netcoreapp3.0\DBUtils.pdb
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.csprojAssemblyReference.cache
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.AssemblyInfoInputs.cache
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.AssemblyInfo.cs
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.csproj.CoreCompileInputs.cache
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.dll
+C:\Users\Zindo\Desktop\Seminarski rad\DBUtils\DBUtils\obj\Debug\netcoreapp3.0\DBUtils.pdb

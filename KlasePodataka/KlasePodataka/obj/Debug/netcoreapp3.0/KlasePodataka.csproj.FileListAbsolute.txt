@@ -1,0 +1,12 @@
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.AssemblyInfoInputs.cache
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.AssemblyInfo.cs
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\bin\Debug\netcoreapp3.0\KlasePodataka.deps.json
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\bin\Debug\netcoreapp3.0\KlasePodataka.dll
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\bin\Debug\netcoreapp3.0\KlasePodataka.pdb
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\bin\Debug\netcoreapp3.0\DBUtils.dll
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\bin\Debug\netcoreapp3.0\DBUtils.pdb
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.csproj.CopyComplete
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.dll
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.pdb
+C:\Users\Zindo\Desktop\Seminarski rad\KlasePodataka\KlasePodataka\obj\Debug\netcoreapp3.0\KlasePodataka.csprojAssemblyReference.cache

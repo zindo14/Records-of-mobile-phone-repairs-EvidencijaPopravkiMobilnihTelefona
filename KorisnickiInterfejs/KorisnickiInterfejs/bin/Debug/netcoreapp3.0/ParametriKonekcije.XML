@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<ParametriKonekcije>
+  <Konekcija>
+    <putanjabaze></putanjabaze>
+    <nazivbaze>PP_EvidencijaPT</nazivbaze>
+    <DBMSinstanca>DESKTOP-6APOAPD</DBMSinstanca>
+  </Konekcija>
+</ParametriKonekcije>

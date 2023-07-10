@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <evidencija>
+    <Marka>Huawei</Marka>
+    <Model>Mate 20 Pro</Model>
+    <Vlasnik>Nikola Zindovic</Vlasnik>
+    <Cena>5500</Cena>
+    <Datum>2022-06-17T00:00:00+02:00</Datum>
+    <OpisKvara>Problem sa baterijom,brzo se prazni.</OpisKvara>
+    <OpisPopravke>Zamenjena baterija.</OpisPopravke>
+  </evidencija>
+  <evidencija>
+    <Marka>iPhone</Marka>
+    <Model>12</Model>
+    <Vlasnik>Bogdan Suboticki</Vlasnik>
+    <Cena>9000</Cena>
+    <Datum>2022-06-09T00:00:00+02:00</Datum>
+    <OpisKvara>Problem sa fokusom kamere.</OpisKvara>
+    <OpisPopravke>Zamenjena kamera.</OpisPopravke>
+  </evidencija>
+  <evidencija>
+    <Marka>Xiaomi</Marka>
+    <Model>Redmi Note 9 Pro</Model>
+    <Vlasnik>Uros Zindovic</Vlasnik>
+    <Cena>16000</Cena>
+    <Datum>2022-05-19T00:00:00+02:00</Datum>
+    <OpisKvara>Problem sa touch screenom,ne reaguje na dodir na svakom mestu.</OpisKvara>
+    <OpisPopravke>Zamena komplet ekrana.</OpisPopravke>
+  </evidencija>
+  <evidencija>
+    <Marka>iPhone</Marka>
+    <Model>11 Pro</Model>
+    <Vlasnik>Petar Bogunovic</Vlasnik>
+    <Cena>32000</Cena>
+    <Datum>2022-06-10T00:00:00+02:00</Datum>
+    <OpisKvara>Telefon se ne pali.</OpisKvara>
+    <OpisPopravke>Zamenjena maticna ploca i baterija.</OpisPopravke>
+  </evidencija>
+  <evidencija>
+    <Marka>iPhone</Marka>
+    <Model>X</Model>
+    <Vlasnik>Kristian Petrik</Vlasnik>
+    <Cena>18000</Cena>
+    <Datum>2022-03-17T00:00:00+01:00</Datum>
+    <OpisKvara>Polomljen ekran.</OpisKvara>
+    <OpisPopravke>Zamena ekrana i postavljanje zastitnog stakla.</OpisPopravke>
+  </evidencija>
+</NewDataSet>
